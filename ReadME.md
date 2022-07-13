@@ -66,7 +66,7 @@ to
 
 1. Clone
 ```
-git clone 
+git clone https://github.com/mystica2000/md-parser.git
 ```
 
 2. Build the Project
