@@ -74,9 +74,9 @@ git clone https://github.com/mystica2000/md-parser.git
 go build main.go
 ```
 
-3. Run 
+3. Run (powershell on windows)
 ```
-./main -src="hello.md" -desc="hello1.md"
+./main -src="hello.md" -desc="hello1.md" 
 ```
 ```
 ./main -src="hello.md" // src and desc will be same file
